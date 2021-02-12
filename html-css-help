@@ -1,0 +1,38 @@
+//How do i add icons to my website? Very simple just plunk this code into you're head in html. Remember it has to be an .ico file.
+
+
+    <link rel="icon" href="file-name">
+    
+    
+//How do i add a background? Very simple just plunk this code into you're style in html.
+
+
+    body  {
+    background-image: url("image");
+    
+    
+ //How do i link my css file and my html file? Very simple just plunk this into you're head in html.
+ 
+ 
+ <link rel="stylesheet" href="style.css">
+     
+     
+ //How do i add font to my css/html? Very simple just plunk this into you're css.
+ 
+ 
+ body {
+    font-family: Serif;
+    margin: 1em;
+  }
+  
+  
+  //How do i add colour to my text in html? Very simple just plunk this into you're css.
+  
+  
+    h1 {
+    color: peru;
+  }
+
+  h2 {
+    color: peru;
+  }
